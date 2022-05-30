@@ -1,0 +1,19 @@
+=============================================================
+=====                  Struk Pembelian                  =====
+=============================================================
+Barang yang dibeli : 
+1. Nama Barang        = Lampu LED RGB
+   Harga Barang       = 24999
+   Jumlah Barang      = 1
+   Total Harga Barang = 24999
+=============================================================
+Nama                = ham
+Alamat              = jomb
+Total Biaya Pesanan = 24999
+Diskon              = 0
+Ongkir              = 14000
+Proteksi            = menggunakan
+Jasa Pengiriman     = JNT
+Biaya Akhir         = -1129358431
+Sisa Saldo          = 1129408431
+=============================================================
